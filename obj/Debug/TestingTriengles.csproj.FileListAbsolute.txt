@@ -1,0 +1,15 @@
+D:\учёба\МДК0101\TestingTriengles\bin\Debug\TestingTriengles.exe.config
+D:\учёба\МДК0101\TestingTriengles\bin\Debug\TestingTriengles.exe
+D:\учёба\МДК0101\TestingTriengles\bin\Debug\TestingTriengles.pdb
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.csproj.AssemblyReference.cache
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\MainWindow.g.cs
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\App.g.cs
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles_MarkupCompile.cache
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles_MarkupCompile.lref
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\MainWindow.baml
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.g.resources
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.Properties.Resources.resources
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.csproj.GenerateResource.cache
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.csproj.CoreCompileInputs.cache
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.exe
+D:\учёба\МДК0101\TestingTriengles\obj\Debug\TestingTriengles.pdb
